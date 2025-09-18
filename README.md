@@ -4,6 +4,9 @@
 🎮 Créateur de projets autour des jeux vidéo et de l’éducation.  
 🚀 Objectif : Atteindre le sommet et inspirer d’autres jeunes au Sénégal.
 
+##  👀 Visiteurs
+![Visitors](https://komarev.com/ghpvc/?username=diawpape1912&color=blue)
+
 ## 🚀 Technologies & langages de programmation
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
