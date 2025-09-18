@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)
 ![Scratch](https://img.shields.io/badge/Scratch-Programming-orange?logo=scratch&logoColor=white)
 
-##Outils pour le pentest et le hacking ethique
+## 🔐 Outils pour le pentest et le hacking ethique
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Pentest-blue?logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Kali%20Linux-purple?logo=linux&logoColor=white)
