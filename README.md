@@ -1,4 +1,4 @@
-![Bannière](https://raw.githubusercontent.com/diawpape1912/diawpape1912/main/focus.jpeg)
+![Bannière](https://github.com/diawpape1912/diawpape1912/blob/f660232df4f2e9e07896bca953a3f1ccbd213ba3/focus.jpeg)
 
 <h1 align="center">
   Salut 👋, Moi c'est <span style="color:#4DB6AC;">Pape Moussé Diaw</span> !
