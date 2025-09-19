@@ -1,10 +1,7 @@
-![Bannière](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vlLxjZ8OvzTYm6pPEOa1-g.png)
 
 <h1 align="center">
   Salut 👋, Moi c'est <span style="color:#4DB6AC;">Pape Moussé Diaw</span> !
 </h1>
-
-# Salut 👋, je suis Pape Moussé Diaw
 
 💻 Passionné par l'informatique, la cybersécurité et le développement.  
 🎮 Créateur de projets autour des jeux vidéo et de l’éducation.  
