@@ -1,5 +1,6 @@
-<!-- Bannière -->
-![Banner](https://img.shields.io/badge/💻-Pape_Moussé_Diaw-blue?style=for-the-badge)
+<h1 align="center">
+  Salut 👋, Moi c'est <span style="color:#4DB6AC;">Pape Moussé Diaw</span> !
+</h1>
 
 # Salut 👋, je suis Pape Moussé Diaw
 
