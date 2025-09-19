@@ -49,5 +49,4 @@
 - [GitHub](https://github.com/diawpape1912)
 - [LinkedIn](www.linkedin.com/in/pape-diaw-b76964320)
 - Email : pdiaw2665@gmail.com
-- Nationalite : Senegalaise
 
