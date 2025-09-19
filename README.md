@@ -1,3 +1,6 @@
+<!-- Bannière -->
+![Banner](https://img.shields.io/badge/💻-Pape_Moussé_Diaw-blue?style=for-the-badge)
+
 # Salut 👋, je suis Pape Moussé Diaw
 
 💻 Passionné par l'informatique, la cybersécurité et le développement.  
