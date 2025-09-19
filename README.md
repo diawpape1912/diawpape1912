@@ -7,6 +7,14 @@
 ##  👀 Visiteurs
 ![Visitors](https://komarev.com/ghpvc/?username=diawpape1912&color=blue)
 
+## 📊 Mes Statistiques GitHub
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=diawpape1912&show_icons=true&theme=tokyonight&count_private=true)
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=diawpape1912&layout=compact&theme=tokyonight)
+
+![Snake animation](https://github.com/diawpape1912/diawpape1912/blob/output/github-contribution-grid-snake.svg)
+
 ## 🚀 Technologies & langages de programmation
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
@@ -41,11 +49,5 @@
 - [GitHub](https://github.com/diawpape1912)
 - [LinkedIn](www.linkedin.com/in/pape-diaw-b76964320)
 - Email : pdiaw2665@gmail.com
+- Nationalite : Senegalaise
 
-## 📊 Mes Statistiques GitHub
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=diawpape1912&show_icons=true&theme=tokyonight&count_private=true)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=diawpape1912&layout=compact&theme=tokyonight)
-
-![Snake animation](https://github.com/diawpape1912/diawpape1912/blob/output/github-contribution-grid-snake.svg)
